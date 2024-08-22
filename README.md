@@ -19,6 +19,10 @@ I am proficient in JavaScript, HTML/CSS, C, C++, R, SQL, Java, and Python. I hav
 - Graduated with distinction (GPA: 3.71/4.00)  
 - Minor in Mathematics
 
+# reports
+
+- S Bird. [*Collective communication on the Schooner supercomputer.*](/reports/collective_comm.pdf) School of Computer Science, University of Oklahoma. 16 August 2024.
+
 # projects
 
 I do programming projects both for school and for fun. There are a few I'm particularly proud of:
