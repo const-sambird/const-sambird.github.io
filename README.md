@@ -2,9 +2,9 @@
 
 # hi there!
 
-I'm Sam, a computer scientist and graduate student currently at the [University of Oklahoma](https://cs.ou.edu). My academic interests are centred around distributed systems, parallel computing, and machine learning. I've done a few programming projects -- for class and for fun -- that I'm pleased with, which I've listed below.
+I'm Sam, a computer scientist and graduate student currently at the [University of Oklahoma](https://cs.ou.edu). My academic interests are centred around distributed systems, databases, parallel computing, and machine learning. I've done a few programming projects -- for class and for fun -- that I'm pleased with, which I've listed below.
 
-I am proficient in JavaScript, HTML/CSS, C, C++, R, SQL, Java, and Python. I have academic experience in machine learning, distributed computing, database development, and creating webservices. I currently expect to graduate from university in December 2024. I am looking for employment after graduation, and I have the right to work without sponsorship in the United States, the United Kingdom, and the European Union.
+I am proficient in JavaScript, HTML/CSS, C, C++, R, SQL, Java, and Python. I have academic experience in machine learning, distributed computing, database development, and creating webservices. I currently expect to graduate from university in December 2024. I intend to enrol in a PhD in Computer Science after that. I have the right to work without sponsorship in the United States, the United Kingdom, and the European Union.
 
 # curriculum vitae
 
