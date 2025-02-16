@@ -50,4 +50,4 @@ I have two email addresses:
 - `sam.bird AT ou DOT edu` for things related to academics
 - `sam AT sambird DOT org` will work for everything else
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sam-bird-aab3382b3/).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sam-bird-cs/).
