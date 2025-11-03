@@ -2,9 +2,9 @@
 
 # hi there!
 
-I'm Sam, a computer scientist and doctoral student currently at the [University of Oklahoma](https://cs.ou.edu). My academic interests are centred around database management, machine learning, quantum computing, and distributed systems. I've done a few programming projects -- for class and for fun -- that I'm pleased with, which I've listed below.
+I'm Sam, a computer scientist and PhD candidate currently at the [University of Oklahoma](https://cs.ou.edu). My academic interests are centred around database management, machine learning, quantum computing, and distributed systems. I've done a few programming projects -- for class and for fun -- that I'm pleased with, which I've listed below.
 
-I am proficient in JavaScript, HTML/CSS, C, C++, R, SQL, Java, and Python. I have academic experience in machine learning, distributed computing, database development, and creating webservices. I have the right to work without sponsorship in the United States, the United Kingdom, and the European Union.
+I am proficient in JavaScript, HTML/CSS, C, C++, R, SQL, Java, and Python. I have academic experience in database management, quantum computing, distributed computing, and machine learning. I have the right to work without sponsorship in the United States, the United Kingdom, and the European Union.
 
 I am currently working under my PhD advisor, [Dr Le Gruenwald](https://cs.ou.edu/~database/faculty), as a Graduate Research Assistant.
 
@@ -28,9 +28,8 @@ I am currently working under my PhD advisor, [Dr Le Gruenwald](https://cs.ou.edu
 - Graduated with distinction (GPA: 3.71/4.00)  
 - Minor in Mathematics
 
-# reports
+# publications
 
-- S Bird. [*Design and analysis of distributed memory calculations.*](/reports/summa.pdf) School of Computer Science, University of Oklahoma. 16 December 2024 [unpublished].
 - S Bird. [*Collective communication on the Schooner supercomputer.*](/reports/collective_comm.pdf) School of Computer Science, University of Oklahoma. 16 August 2024 [unpublished].
 
 # projects
