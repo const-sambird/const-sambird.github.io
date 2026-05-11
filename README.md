@@ -28,7 +28,7 @@ I am currently working under my PhD advisor, [Dr Le Gruenwald](https://cs.ou.edu
 
 # publications
 
-- **Sam Bird**, Le Gruenwald, and Sven Groppe, "[A Divergent Index Tuning Advisor Using Quantum Machine Learning for Distributed Databases](/papers/qdina-final.pdf)", **to appear in** 2026 IEEE 42nd International Conference on Data Engineering Workshops (ICDEW), Montreal, Canada, 4-8 May 2026.
+- **Sam Bird**, Le Gruenwald, and Sven Groppe, "[A Divergent Index Tuning Advisor Using Quantum Machine Learning for Distributed Databases](/papers/qdina-final.pdf)", 2026 IEEE 42nd International Conference on Data Engineering Workshops (ICDEW), Montreal, Canada, 4-8 May 2026, 1-7. ([bibtex](/cite/qdina.bib))
 
 # projects
 
