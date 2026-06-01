@@ -11,7 +11,7 @@ I am currently working under my PhD advisor, [Dr Le Gruenwald](https://cs.ou.edu
 **Doctor of Philosophy in Computer Science**, 2025--present
 
 - University of Oklahoma, *Norman, Oklahoma, United States*  
-- Dissertation topic: quantum computing for database index selection
+- Dissertation topic: quantum computing for distributed database query optimisation
 - Currently in progress
 
 **Master of Science in Computer Science**, 2024
