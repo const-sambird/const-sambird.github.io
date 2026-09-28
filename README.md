@@ -4,7 +4,7 @@
 
 I'm Sam, a computer scientist and PhD candidate currently at the [University of Oklahoma](https://cs.ou.edu). My academic interests are centred around database management, quantum computing, machine learning, and distributed systems. I am proficient in Python, SQL, C, C++, R, JavaScript, HTML/CSS, and Java. I have the right to work without sponsorship in the United States, the United Kingdom, and the European Union.
 
-I am currently working under my PhD advisor, [Dr Le Gruenwald](https://cs.ou.edu/~database/faculty), as a Graduate Research Assistant.
+I am currently working under my PhD advisor, [Dr Le Gruenwald](https://cs.ou.edu/~database/faculty), as a Graduate Research Assistant. I am currently planning to graduate in December 2027, and I am primarily looking for academic roles in the Minneapolis-St Paul metro area.
 
 # curriculum vitae
 
