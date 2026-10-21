@@ -4,7 +4,7 @@
 
 I'm Sam, a computer scientist and PhD candidate currently at the [University of Oklahoma](https://cs.ou.edu). My academic interests are centred around database management, quantum computing, machine learning, and distributed systems. I am proficient in Python, SQL, C, C++, R, JavaScript, HTML/CSS, and Java. I have the right to work without sponsorship in the United States, the United Kingdom, and the European Union.
 
-I am currently working under my PhD advisor, [Dr Le Gruenwald](https://cs.ou.edu/~database/faculty), as a Graduate Research Assistant. I am currently planning to graduate in December 2027, and I am primarily looking for academic roles in the Minneapolis-St Paul metro area.
+I am currently working under my PhD advisor, [Dr Le Gruenwald](https://cs.ou.edu/~database/faculty), as a Graduate Research Assistant.
 
 # curriculum vitae
 
@@ -28,6 +28,7 @@ I am currently working under my PhD advisor, [Dr Le Gruenwald](https://cs.ou.edu
 
 # publications
 
+- **Sam Bird**, Le Gruenwald, and Sven Groppe, "QUBO-Driven Divergent Design Index Tuning for Distributed Databases", **to appear in** 2026 IEEE International Conference on Big Data (BigData), Phoenix, USA, 14-17 December 2026.
 - **Sam Bird**, Le Gruenwald, and Sven Groppe, "[A Divergent Index Tuning Advisor Using Quantum Machine Learning for Distributed Databases](/papers/qdina-final.pdf)", 2026 IEEE 42nd International Conference on Data Engineering Workshops (ICDEW), Montreal, Canada, 4-8 May 2026, 1-7. ([bibtex](/cite/qdina.bib))
 
 # projects
